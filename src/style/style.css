@@ -1,0 +1,21 @@
+html {
+    font-family: Calibri;
+    background-color: rgb(57, 54, 54);
+}
+
+h1, h2, h3, p, b {
+    color: white;
+}
+
+.center {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+hr {
+    height:1px;
+    border-width:0;
+    width: 100%;
+    background-color: white;
+  }
