@@ -35,6 +35,10 @@ a:link {
     align-items: center;
 }
 
+.black {
+  color: black;
+}
+
 /* CSS */
 .button-6 {
   align-items: center;
